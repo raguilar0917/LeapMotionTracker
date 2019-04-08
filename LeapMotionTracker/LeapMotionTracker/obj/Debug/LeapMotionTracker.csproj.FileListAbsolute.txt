@@ -1,0 +1,11 @@
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\bin\Debug\LeapMotionTracker.exe.config
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\bin\Debug\LeapMotionTracker.exe
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\bin\Debug\LeapMotionTracker.pdb
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.csprojAssemblyReference.cache
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.Properties.Resources.resources
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.csproj.GenerateResource.cache
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.csproj.CoreCompileInputs.cache
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.csproj.CopyComplete
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.exe
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.pdb
+C:\Users\codyr\Desktop\LeapMotionTracker\LeapMotionTracker\obj\Debug\LeapMotionTracker.Form1.resources
